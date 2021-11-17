@@ -1,0 +1,91 @@
+/* Header-ის გასთილვა */
+
+.web {
+    color:#3D37F1;
+    font-weight: bold;
+}
+.web-2 {
+    color:#4B647E;
+
+}
+.logo {
+    font-size: 32px;
+    font-family: 'Lato', sans-serif;
+    margin-left: 132px;
+    margin-right: 752px;
+    
+}
+
+.nav-li {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color:#3D37F1;
+    font-weight: bold;
+}
+.header {
+    display:flex;
+   
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around ;
+    width: 581px;
+}
+
+h1 {
+    font-size: 78px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    width: 600px;
+    margin-top: 285px;
+}
+.main-p {
+    font-size: 14px;
+    margin-top: 42px;
+    margin-bottom: 84px;
+}
+.text-wave {
+    background-color: #3D37F1;
+    display: flex;
+    align-items: center;
+    width: 264px;
+    height: 77px;
+    justify-content: space-around;
+    border-radius: 50px;
+
+}
+.p-wave {
+    color: white;
+    font-size: 23px;
+    margin-right: 60px;
+;
+
+}
+.logo-wave {
+    width: 31px;
+    margin-left: 43px;
+    margin-right: 24px;
+}
+
+.first-block {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin-right: 307px;
+}
+
+
+
+
+.main-section {
+    margin-left: 99px;
+    display: flex;
+    align-content: center;
+}
+
+.main-img {
+    width: 801px;
+    height: 526px;
+    margin-top: 200px;
+}
